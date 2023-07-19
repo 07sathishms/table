@@ -1,0 +1,8 @@
+h1{
+    background-color: aqua;
+}
+table,th,td{
+    margin-left: 30%;
+    border: solid black 1px;
+    border-collapse: collapse;
+}
